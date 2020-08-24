@@ -14,6 +14,10 @@ represents a free cell.
 
 ● Don’t need to generate all the possible path. Just find out if at least one path exists, and output one possible path. 
 
+referred the code from the following website: 
+
+https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/
+
 Run with
 ```
 bazel run src/main:main
